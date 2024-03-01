@@ -58,4 +58,5 @@ Loan applications in these states maybe charged with marginally higher interest 
 
 
 ## Contact
-Created by [@poonam-attri] - feel free to contact me!
+Created by [@poonam-attri]
+and [@kushshah98] - free to contact us!
